@@ -1,0 +1,13 @@
+.page-primary {
+    max-width: 1080px;
+    padding: 80px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 64px;
+}
+
+.page-primary > div > h1 {
+    font-size: 80px;
+    margin-top: 16px;
+}

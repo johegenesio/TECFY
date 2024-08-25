@@ -1,0 +1,17 @@
+.services {
+    padding: 80px 0;
+}
+
+.services > h2 {
+    font-size: 80px;
+    margin: 4px 0;
+}
+
+.services > h3 {
+    font-size: 40px;
+}
+
+.container-service > h4 {
+    font-size: 24px;
+    margin: 28px 0 0 0;
+}
